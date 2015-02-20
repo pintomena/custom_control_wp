@@ -1,0 +1,13 @@
+/* Layout_Control in Customize screen */
+.of-radio-img-img {
+	border:3px solid #f9f9f9;
+	margin:0 5px 10px 0;
+	cursor:pointer;
+	float:left;
+}
+.of-radio-img-selected {
+	border:3px solid #ccc
+}
+.of-radio-img-img:hover {
+	opacity:.8;
+}
